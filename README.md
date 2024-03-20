@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-###I'm Claire Probst!
+I'm Claire Probst!
 - _Currently:_ Master Student in Data Science and Management at Luiss Guido Carli (Rome, Italy)
 - _Background:_ BS in Biology with focus in Bioinformatics at Temple University (Philadelphia, US)
 
